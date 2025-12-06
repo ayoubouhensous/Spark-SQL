@@ -1,0 +1,6 @@
+rental_id,user_id,age,gender,start_time,end_time,start_station,end_station,duration_minutes,price
+1,101,25,M,2025-12-01 08:15:00,2025-12-01 08:45:00,Station A,Station B,30,2.5
+2,102,34,F,2025-12-01 09:00:00,2025-12-01 09:25:00,Station C,Station D,25,2.0
+3,103,28,M,2025-12-01 07:45:00,2025-12-01 08:20:00,Station A,Station C,35,3.0
+4,104,45,F,2025-12-01 18:00:00,2025-12-01 18:30:00,Station B,Station A,30,2.5
+5,105,52,M,2025-12-01 10:30:00,2025-12-01 11:00:00,Station A,Station B,30,2.5
